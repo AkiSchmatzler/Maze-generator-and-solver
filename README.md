@@ -6,6 +6,7 @@
 This program is written in MIPS assembly code, and uses the Mars MIPS simulator. I included the .jar file in case someone wants to execute the code.  
 :warning: All the comments and function names are in french!  
 
+![example of maze](image/example_maze.png)
 
 ### Compilation and execution  
 To generate a random labyrinth, use command `java -jar Mars4_5.jar projet.s pa 1 <SIZE_LABYRINTH> <name_of_output_file>.txt`. (if the output file doesn't exist it will get created)  
